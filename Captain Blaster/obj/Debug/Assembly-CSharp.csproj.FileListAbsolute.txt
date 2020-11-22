@@ -1,0 +1,2 @@
+C:\Users\Hp\Documents\GitHub\Captain-Blaster-Clone\Captain Blaster\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Hp\Documents\GitHub\Captain-Blaster-Clone\Captain Blaster\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
